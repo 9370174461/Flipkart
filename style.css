@@ -1,0 +1,15 @@
+ .foot {
+    display: flex;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(99, 99, 253);
+}
+contact.html footer{
+    display: flex;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(99, 99, 253);
+}
+
